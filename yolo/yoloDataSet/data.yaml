@@ -1,0 +1,6 @@
+train: /content/drive/MyDrive/projects/BoneFracture/yolo/yoloDataSet/train/images
+val:  /content/drive/MyDrive/projects/BoneFracture/yolo/yoloDataSet/valid/images
+test: /content/drive/MyDrive/projects/BoneFracture/yolo/yoloDataSet/test/images
+nc: 1
+names: ['fracture']
+
