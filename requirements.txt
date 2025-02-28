@@ -1,0 +1,10 @@
+tensorflow==2.13.0
+keras==2.13.1
+opencv-python==4.8.0.76
+numpy==1.23.5
+matplotlib==3.7.1
+pillow==10.0.0
+streamlit==1.25.0
+ultralytics==8.0.43  # For YOLOv8
+scikit-learn==1.2.2
+pandas==1.5.3
