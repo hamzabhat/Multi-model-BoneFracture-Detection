@@ -128,7 +128,7 @@ Contributions are welcome! To contribute, follow these steps:
 1. **Fork the repository** on GitHub.  
 2. **Clone your fork** locally:  
    ```bash
-   git clone https://github.com/your-username/Multi-model-BoneFracture-Detection.git
+   git clone https://github.com/hamzabhat/Multi-model-BoneFracture-Detection.git
    ```
 
 3. **Create a new branch** for your feature or fix:
