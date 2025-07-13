@@ -123,7 +123,10 @@ After training, execute the evaluation script to generate performance reports:
 python evaluate_models.py
 ```
 ## Contributing
-Contributions are welcome! To contribute, follow these steps:  
+Contributions are welcome! To contribute, follow these steps: 
+
+## Contributors
+Digantik Mukherjee https://github.com/son-21  - Contributed to project documentation and enhancements.
 
 1. **Fork the repository** on GitHub.  
 2. **Clone your fork** locally:  
